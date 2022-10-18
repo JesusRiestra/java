@@ -10,6 +10,6 @@ Cuando abrimos un proyecto por primera vez con BlueJ, este creara un nuevo archi
 
 Con la opción **_"Abrir no BlueJ"_** podemos abrir paquetes existentes creados sin BlueJ. Con **_"Abrir proyecto"_** solo podremos abrir paquetes creados con BlueJ.
 
-[Captura 2](https://i.imgur.com/6NFg2SG.png)
+[Captura 2](https://i.imgur.com/6NFg2SG.png) --> Antes de abrir el proyecto en BlueJ
 
-[Captura 3](https://i.imgur.com/s3cUU1N.png)
+[Captura 3](https://i.imgur.com/s3cUU1N.png) --> Después de abrir el proyecto en BlueJ
