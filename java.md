@@ -1,4 +1,4 @@
-### APUNTES JAVA
+# APUNTES JAVA
 
 Compilar archivo .java --> **javac _"nombredelarchivo.java"_** (con extensión)
 
