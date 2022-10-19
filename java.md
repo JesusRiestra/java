@@ -33,7 +33,9 @@ Con la opción **_"Abrir no BlueJ"_** podemos abrir paquetes existentes creados 
 **PARED:**
 
 square1 = new Square()
+
 square1.moveHorizontal(-100)
+
 square1.changesize(80)
 
 **VENTANA:**
