@@ -21,3 +21,9 @@ Con la opción **_"Abrir no BlueJ"_** podemos abrir paquetes existentes creados 
 [Captura 2](https://i.imgur.com/Fn13v8c.png)
 
 [Captura 3](https://i.imgur.com/SIKiUD8.png)
+
+### INSPECTOR DE OBJETOS
+
+[Uso del inspector de objetos](https://i.imgur.com/57lDz7T.png)
+
+[Uso del inspector de objetos de nuevo](https://i.imgur.com/RP0fcIb.png)
