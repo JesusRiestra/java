@@ -32,6 +32,8 @@ Con la opción **_"Abrir no BlueJ"_** podemos abrir paquetes existentes creados 
 
 [Imagen de la casa y el sol creada con BlueJ](https://i.imgur.com/s9WJMFc.png)
 
+Estado de un objeto: conjunto de valores de los atributos
+
 **PARED:**
 
 square1 = new Square()
