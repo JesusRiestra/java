@@ -30,6 +30,8 @@ Con la opción **_"Abrir no BlueJ"_** podemos abrir paquetes existentes creados 
 
 ### INVOCANDO METODOS PARA CREAR UN DIBUJO
 
+[Imagen de la casa y el sol creada con BlueJ](https://i.imgur.com/s9WJMFc.png)
+
 **PARED:**
 
 square1 = new Square()
