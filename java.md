@@ -84,6 +84,10 @@ circle1.moveHorizontal(80)
 
 circle1.moveVertical(-30)
 
+### ESCRIBIENDO CODIGO JAVA EN EL CODE PAD
+
+[Primer uso del Code Pad](https://i.imgur.com/OZ4xaqd.png)
+
 
 
 
