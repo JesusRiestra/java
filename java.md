@@ -92,6 +92,16 @@ circle1.moveVertical(-30)
 
 [Estudio de bloque de código](https://i.imgur.com/BFzHvq9.png)
 
+### CAMBIANDO EL MÉTODO DRAW POR PRIMERA VEZ
+
+[Captura 1](https://i.imgur.com/w3GAFbd.png)
+
+[Captura 2](https://i.imgur.com/PrujpZv.png)
+
+[Captura 3](https://i.imgur.com/cLbOXEB.png)
+
+Lo que más me ha costado ha sido asignar los atributos para que los objetos, como el sol, se situen en la posición exacta.
+
 
 
 
