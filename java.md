@@ -88,6 +88,10 @@ circle1.moveVertical(-30)
 
 [Primer uso del Code Pad](https://i.imgur.com/OZ4xaqd.png)
 
+### ESTUDIANDO EL CODIGO FUENTE
+
+[Estudio de bloque de código](https://i.imgur.com/BFzHvq9.png)
+
 
 
 
