@@ -102,6 +102,16 @@ circle1.moveVertical(-30)
 
 Lo que más me ha costado ha sido asignar los atributos para que los objetos, como el sol, se situen en la posición exacta.
 
+### ANIMANDO LA PUESTA DE SOL
+
+[Captura 1. Listado de commits](https://i.imgur.com/b48Owry.png)
+
+[Captura 2. Último commit](https://i.imgur.com/2Sxs1Bm.png)
+
+[Captura 3. Cambios del último commit](https://i.imgur.com/HmUlgWv.png)
+
+Lo que me costó fue ajustar el número de pixeles justos que el sol tenía que moverse hacia abajo.
+
 
 
 
