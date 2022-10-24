@@ -112,6 +112,8 @@ Lo que más me ha costado ha sido asignar los atributos para que los objetos, co
 
 Lo que me costó fue ajustar el número de pixeles justos que el sol tenía que moverse hacia abajo.
 
+### ANIMANDO LA ENTRADA EN ESCENA DE UNA PERSONA
+
 
 
 
