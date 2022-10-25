@@ -126,6 +126,8 @@ Al principio no habia creado a la persona en el metodo atardecer, por lo que no 
 
 [Alumnos de mi propia clase](https://i.imgur.com/2lHvpXN.png)
 
+### ENTENDIENDO COMO LOS OBJETOS SE INDICAN COMO PARÁMETROS
+
 [Detalles en la clase actual en la que estás](https://i.imgur.com/Qi3pRJD.png)
 
 [Parámetro del metodo _matricularAlumno_](https://i.imgur.com/cTJNGd8.png)
