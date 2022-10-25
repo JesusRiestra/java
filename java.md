@@ -122,6 +122,10 @@ Lo que me costó fue ajustar el número de pixeles justos que el sol tenía que 
 
 Al principio no habia creado a la persona en el metodo atardecer, por lo que no funcionaba correctamente y se mostraba un error.
 
+### CREANDO LA BASE DE DATOS DE ALUMNOS DE LA CLASE
+
+[Alumnos de mi propia clase](https://i.imgur.com/2lHvpXN.png)
+
 
 
 
