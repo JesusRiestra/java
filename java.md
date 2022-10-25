@@ -114,7 +114,13 @@ Lo que me costó fue ajustar el número de pixeles justos que el sol tenía que 
 
 ### ANIMANDO LA ENTRADA EN ESCENA DE UNA PERSONA
 
+[Captura 1. Listado de commits](https://i.imgur.com/3ynyLwX.png)
 
+[Captura 2. Último commit](https://i.imgur.com/p3Kaa0I.png)
+
+[Captura 3. Cambios del último commit](https://i.imgur.com/2zvAIAd.png)
+
+Al principio no habia creado a la persona en el metodo atardecer, por lo que no funcionaba correctamente y se mostraba un error.
 
 
 
