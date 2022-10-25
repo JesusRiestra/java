@@ -136,6 +136,10 @@ Al principio no habia creado a la persona en el metodo atardecer, por lo que no 
 
 [Zona de declaración de atributos](https://i.imgur.com/deNSYuZ.png)
 
+### DETECTANDO PALABRAS RESERVADAS
+
+[Palabras reservadas existentes en la clase _maquina-expendedora-simple_](https://i.imgur.com/XRXjUIL.png)
+
 
 
 
