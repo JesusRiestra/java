@@ -138,7 +138,7 @@ Al principio no habia creado a la persona en el metodo atardecer, por lo que no 
 
 ### DETECTANDO PALABRAS RESERVADAS
 
-[Palabras reservadas existentes en la clase _maquina-expendedora-simple_](https://i.imgur.com/ooBRk1M.png))
+[Palabras reservadas existentes en la clase _maquina-expendedora-simple_](https://i.imgur.com/ooBRk1M.png)
 
 
 
