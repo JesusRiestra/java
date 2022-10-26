@@ -156,6 +156,10 @@ Al principio no habia creado a la persona en el metodo atardecer, por lo que no 
 
 - estacionDestino
 
+#### Constructor:
+
+- MaquinaExpendedoraSimple(int precioDelBillete, String origen, String destino)
+
 
 
 
