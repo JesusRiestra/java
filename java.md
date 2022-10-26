@@ -160,6 +160,16 @@ Al principio no habia creado a la persona en el metodo atardecer, por lo que no 
 
 - MaquinaExpendedoraSimple(int precioDelBillete, String origen, String destino)
 
+#### Métodos:
+
+- getPrecioBillete
+
+- getBalanceClienteActual
+
+- introducirDinero
+
+- imprimirBillete
+
 
 
 
