@@ -140,6 +140,10 @@ Al principio no habia creado a la persona en el metodo atardecer, por lo que no 
 
 [Palabras reservadas existentes en la clase _maquina-expendedora-simple_](https://i.imgur.com/ooBRk1M.png)
 
+### ENTENDIENDO LA ESTRUCTURA DE UNA CLASE
+
+[Estructura de la clase _maquina-expendedora-simple_](https://i.imgur.com/2JSQav0.png)
+
 
 
 
