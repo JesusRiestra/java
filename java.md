@@ -144,6 +144,8 @@ Al principio no habia creado a la persona en el metodo atardecer, por lo que no 
 
 [Estructura de la clase _maquina-expendedora-simple_](https://i.imgur.com/2JSQav0.png)
 
+#### Atributos:
+
 
 
 
