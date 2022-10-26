@@ -146,6 +146,16 @@ Al principio no habia creado a la persona en el metodo atardecer, por lo que no 
 
 #### Atributos:
 
+- precioBillete
+
+- balanceClienteActual
+
+- totalDineroAcumulado
+
+- estacionOrigen
+
+- estacionDestino
+
 
 
 
