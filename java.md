@@ -180,6 +180,10 @@ Al principio no habia creado a la persona en el metodo atardecer, por lo que no 
 
 [Código fuente modificado del constructor](https://i.imgur.com/wdG8Uxm.png)
 
+- En la captura 1, todos los atributos se estaban inicializado explícitamente.
+
+- En la captura 2, los atributos que se inicializaban explícitamente eran **balanceClienteActual** y **estaciónDestino**; y los que se inicializaban implícitamente eran todos los demás (**precioBillete**, **totalDineroAcumulado** y **estacionOrigen**)
+
 
 
 
