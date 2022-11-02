@@ -170,6 +170,10 @@ Al principio no habia creado a la persona en el metodo atardecer, por lo que no 
 
 - imprimirBillete
 
+### ESTUDIANDO LA CABECERA DE LOS CONSTRUCTORES
+
+[Código fuente de la clase](https://i.imgur.com/KgCHVia.png)
+
 
 
 
