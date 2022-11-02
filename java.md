@@ -174,6 +174,12 @@ Al principio no habia creado a la persona en el metodo atardecer, por lo que no 
 
 [Código fuente de la clase](https://i.imgur.com/KgCHVia.png)
 
+### ESTUDIANDO LA INICIALIZACIÓN DE LOS ATRIBUTOS
+
+[Código fuente original del constructor](https://i.imgur.com/d6v0npy.png)
+
+[Código fuente modificado del constructor](https://i.imgur.com/wdG8Uxm.png)
+
 
 
 
