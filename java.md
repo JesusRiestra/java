@@ -186,6 +186,11 @@ Al principio no habia creado a la persona en el metodo atardecer, por lo que no 
 
 - Los valores de **precioBillete** y **totalDineroAcumulado** son 0, mientras que el valor de **estacionOrigen** es nulo.
 
+### ESTUDIANDO EL ÁMBITO Y TIEMPO DE VIDA
+
+[Ámbito del atributo precioBillete y del parámetro precioDelBillete](https://i.imgur.com/g2bEzU5.png)
+
+
 
 
 
