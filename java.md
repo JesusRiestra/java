@@ -194,6 +194,10 @@ Al principio no habia creado a la persona en el metodo atardecer, por lo que no 
 
 - El tiempo de vida del atributo **precioBillete** coincide con el tiempo de vida del objeto (en este caso, la máquina expendedora).
 
+### ESTUDIANDO LAS ASIGNACIONES
+
+[Instrucciones de asignación en la clase maquina-expendedora-simple](https://i.imgur.com/Pyo5Q1T.png)
+
 
 
 
