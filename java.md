@@ -190,6 +190,10 @@ Al principio no habia creado a la persona en el metodo atardecer, por lo que no 
 
 [Ámbito del atributo precioBillete y del parámetro precioDelBillete](https://i.imgur.com/g2bEzU5.png)
 
+- El tiempo de vida del parametro **precioDelBillete** permanece hasta que se ejecuta el constructor.
+
+- El tiempo de vida del atributo **precioBillete** coincide con el tiempo de vida del objeto (en este caso, la máquina expendedora).
+
 
 
 
