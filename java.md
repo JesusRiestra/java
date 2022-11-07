@@ -206,6 +206,8 @@ Al principio no habia creado a la persona en el metodo atardecer, por lo que no 
 
 [Usos del operador + en el método imprimirBillete de la clase maquina-expendedora-simple](https://i.imgur.com/nfnFIzY.png)
 
+- Las concatenaciones de cadenas se escriben siempre entre **comillas dobles** y empiezan con el **carácter almohadilla #**
+
 
 
 
