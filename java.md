@@ -200,7 +200,7 @@ Al principio no habia creado a la persona en el metodo atardecer, por lo que no 
 
 ### ESTUDIANDO LOS METODOS DE LA CLASE MÁQUINA EXPENDEDORA SIMPLE
 
-
+[Estudio de los métodos de la clase maquina-expendedora-simple](https://i.imgur.com/kgNqAMf.png)
 
 
 
