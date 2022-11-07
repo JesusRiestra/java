@@ -206,7 +206,7 @@ Al principio no habia creado a la persona en el metodo atardecer, por lo que no 
 
 [Usos del operador + en el método imprimirBillete de la clase maquina-expendedora-simple](https://i.imgur.com/nfnFIzY.png)
 
-- Las concatenaciones de cadenas contienen siempre valores de tipo **string**, mientras las operaciones de suma contienen valores de tipo **int**.
+- Las concatenaciones de cadenas contienen siempre valores de tipo **string**, mientras que las operaciones de suma contienen valores de tipo **int**.
 
 
 
