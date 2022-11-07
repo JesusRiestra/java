@@ -198,6 +198,8 @@ Al principio no habia creado a la persona en el metodo atardecer, por lo que no 
 
 [Instrucciones de asignación en la clase maquina-expendedora-simple](https://i.imgur.com/Pyo5Q1T.png)
 
+### ESTUDIANDO LOS METODOS DE LA CLASE MÁQUINA EXPENDEDORA SIMPLE
+
 
 
 
