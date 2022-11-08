@@ -220,7 +220,9 @@ else {
 
 Un **pseudocódigo** es una manera de definir los algoritmos, es decir, los pasos necesarios para resolver un problema. Es un paso intermedio entre los diagramas de flujo y los lenguajes de programación.
 
+### Investigando sobre los operadores relacionales
 
+| Operando 1 | Operador | Operador 2 | Significado | 
 
 
 
