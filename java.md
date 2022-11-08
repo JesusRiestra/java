@@ -231,9 +231,16 @@ Un **pseudocódigo** es una manera de definir los algoritmos, es decir, los paso
 | a | == | b | igual que |
 | a | != | b | distinto que |
 
+### Escribiendo una instrucción condicional en pseudocódigo
 
-
-
+~~~
+if (a + b == ab * ab - 740) {
+    invitar a otra copa;
+}
+else {
+    invitar a unos chupitos;
+}
+~~~
 
 
 
