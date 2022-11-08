@@ -209,7 +209,7 @@ Al principio no habia creado a la persona en el metodo atardecer, por lo que no 
 - Las concatenaciones de cadenas contienen siempre valores de tipo **string**, mientras que las operaciones de suma contienen valores de tipo **int**.
 
 ### Pensando una instrucción condicional en pseudocódigo
-{
+~~~
 if (es Lunes) {
 
     no tengo clase las dos ultimas horas y salgo antes de clase;  
@@ -221,7 +221,7 @@ else {
   tengo todas las horas y salgo a la hora normal; 
   
 }
-}
+~~~
 
 
 
