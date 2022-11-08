@@ -242,6 +242,13 @@ else {
 }
 ~~~
 
+### Estudiando la instrucción condicional de introducirDinero
+
+- Para ejecutar el camino **if** en _introducirDinero_ debemos introducir una cantidad superior a 0 (sin incluir). Si no salta mensaje de error y se actualiza el balance actual, significa que ha seguido este camino correctamente.
+
+- Para ejecutar el camino **else**, debemos introducir una cantidad igual o inferior a 0 (negativa). Si salta un mensaje de error, significa que ha seguido este camino.
+
+- Si el valor introducido es 0, salta el mismo error que si el número fuera negativo, ya que el valor debe ser superior y **SIN INCLUIR** el número 0.
 
 
 
