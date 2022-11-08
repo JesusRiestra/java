@@ -211,15 +211,10 @@ Al principio no habia creado a la persona en el metodo atardecer, por lo que no 
 ### Pensando una instrucción condicional en pseudocódigo
 ~~~
 if (es Lunes) {
-
     no tengo clase las dos ultimas horas y salgo antes de clase;  
-    
 }
-
 else {
-
-  tengo todas las horas y salgo a la hora normal; 
-  
+  tengo todas las horas y salgo a la hora normal;   
 }
 ~~~
 
