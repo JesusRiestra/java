@@ -223,8 +223,9 @@ Un **pseudocódigo** es una manera de definir los algoritmos, es decir, los paso
 ### Investigando sobre los operadores relacionales
 
 | Operando 1 | Operador | Operador 2 | Significado |
-
 | -- | -- | -- | -- |
+
+
 
 
 
