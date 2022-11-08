@@ -224,12 +224,12 @@ Un **pseudocódigo** es una manera de definir los algoritmos, es decir, los paso
 
 | Operando 1 | Operador | Operador 2 | Significado |
 | -- | -- | -- | -- |
-| a | Operador | b | menor que |
-| a | Operador | b | mayor que |
-| a | Operador | b | menor o igual que |
-| a | Operador | b | mayor o igual que |
-| a | Operador | b | igual que |
-| a | Operador | b | distinto que |
+| a | < | b | menor que |
+| a | > | b | mayor que |
+| a | <= | b | menor o igual que |
+| a | >= | b | mayor o igual que |
+| a | == | b | igual que |
+| a | != | b | distinto que |
 
 
 
