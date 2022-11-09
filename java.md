@@ -254,6 +254,14 @@ else {
 
 [Diferencias entre el método imprimirBillete de la máquina mejorada con respecto a la simple si se imprime el billete](https://i.imgur.com/dW5EdiB.png)
 
+### Comprobando las instrucciones condicionales sin parte else
+
+- Si la cantidad de dinero introducida es valida y suficiente para pagar el billete, se ejecuta el código normal. En cambio si dicha cantidad no es suficiente para pagar el billete, no ocurre nada porque no hay parte **else** en el código.
+
+[Método imprimiBillete sin parte else](https://i.imgur.com/yWH9ysa.png)
+
+
+
 
 
 
