@@ -264,15 +264,33 @@ else {
 
 **- Un camino:**
 ~~~
-if (es Lunes) {
-    no tengo clase las dos ultimas horas y salgo antes de clase;  
-}
-else {
-  tengo todas las horas y salgo a la hora normal;   
+if (hace frio) {
+    me pongo una chaqueta;  
 }
 ~~~
 
+**- Dos caminos:**
+~~~
+if (hace frio) {
+    me pongo una chaqueta;  
+}
+else {
+    voy con manga corta;
+}
+~~~
 
+**- Tres caminos:**
+~~~
+if (hace frio) {
+    me pongo una chaqueta;  
+}
+else if (esta nevando) {
+    me pongo una chaqueta y también un abrigo;
+}
+else {
+    voy en manga corta; 
+}
+~~~
 
 
 
