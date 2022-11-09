@@ -262,7 +262,7 @@ else {
 
 ### Investigando cómo escribir la instrucción condicional
 
-**Un camino:**
+**- Un camino:**
 ~~~
 if (es Lunes) {
     no tengo clase las dos ultimas horas y salgo antes de clase;  
