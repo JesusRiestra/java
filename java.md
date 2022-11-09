@@ -250,6 +250,9 @@ else {
 
 - Si el valor introducido es 0, salta el mismo error que si el número fuera negativo, ya que el valor debe ser superior y **SIN INCLUIR** el número 0.
 
+### Investigando la nueva versión del método imprimirBillete
+
+[Diferencias entre el método imprimirBillete de la máquina mejorada con respecto a la simple si se imprime el billete](https://i.imgur.com/dW5EdiB.png)
 
 
 
