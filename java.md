@@ -281,11 +281,11 @@ else {
 
 **- Tres caminos:**
 ~~~
-if (hace frio) {
-    me pongo una chaqueta;  
+if (esta nevando) {
+    me pongo un abrigo;  
 }
-else if (esta nevando) {
-    me pongo una chaqueta y también un abrigo;
+else if (hace frio) {
+    me pongo solo una chaqueta;
 }
 else {
     voy en manga corta; 
