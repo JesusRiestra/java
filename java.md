@@ -260,6 +260,17 @@ else {
 
 [Método imprimiBillete sin parte else](https://i.imgur.com/yWH9ysa.png)
 
+### Investigando cómo escribir la instrucción condicional
+
+~~~
+if (es Lunes) {
+    no tengo clase las dos ultimas horas y salgo antes de clase;  
+}
+else {
+  tengo todas las horas y salgo a la hora normal;   
+}
+~~~
+
 
 
 
