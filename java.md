@@ -292,7 +292,19 @@ else {
 }
 ~~~
 
+### Escribiendo otra instrucción condicional en pseudocódigo
 
+~~~
+if (a >= 18) {
+    regalo de una copa;  
+}
+else if (a >= 65) {
+    también regalo de una botella de cava;
+}
+else {
+    no está permitida la entrada; 
+}
+~~~
 
 
 
