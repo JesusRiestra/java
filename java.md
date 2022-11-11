@@ -308,7 +308,7 @@ else {
 
 ### Entendiendo el indentado de código
 
-[Ámbitos en la clase MaquinaExpendedoraMejorada]()
+[Ámbitos en la clase MaquinaExpendedoraMejorada](https://i.imgur.com/YKX5Evl.png)
 
 - **Indentar el código** es hacer espacios hacia la derecha para mover una linea de código, ya sea con la tecla espacio o con tabulación.
 
