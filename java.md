@@ -295,7 +295,7 @@ else {
 ### Escribiendo otra instrucción condicional en pseudocódigo
 
 ~~~
-if (a >= 18) {
+if (a >= 18 && a <= 65) {
     regalo de una copa;  
 }
 else if (a >= 65) {
