@@ -308,8 +308,11 @@ else {
 
 ### Entendiendo el indentado de código
 
+[Ámbitos en la clase MaquinaExpendedoraMejorada]()
+
 - **Indentar el código** es hacer espacios hacia la derecha para mover una linea de código, ya sea con la tecla espacio o con tabulación.
 
+- **Método mal indentado:**
 ~~~
 /**
      * Devuelve el precio del billete
