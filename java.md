@@ -306,7 +306,25 @@ else {
 }
 ~~~
 
+### Entendiendo el indentado de código
 
+- **Indentar el código** es hacer espacios hacia la derecha para mover una linea de código, ya sea con la tecla espacio o con tabulación.
+
+~~~
+/**
+     * Devuelve el precio del billete
+     */
+    public int getPrecioBillete() {
+    return precioBillete;
+    }
+
+    /**
+     * Devuelve la cantidad de dinero que el cliente actual lleva introducida
+     */
+    public int getBalanceClienteActual() {
+    return balanceClienteActual;
+    }
+~~~
 
 
 
