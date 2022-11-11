@@ -312,7 +312,7 @@ else {
 
 - **Indentar el código** es hacer espacios hacia la derecha para mover una linea de código, ya sea con la tecla espacio o con tabulación.
 
-- **Método mal indentado:**
+**Método mal indentado:**
 ~~~
 /**
      * Devuelve el precio del billete
