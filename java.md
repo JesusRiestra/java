@@ -362,7 +362,11 @@ void temperaturaMaximaMensual(int array[]) {
 }
 ~~~
 
+### Estudiando las variables locales
 
+[Creación de variables locales en el Codepad](https://i.imgur.com/Hp6w6ZD.png)
+
+[Variables locales de tipo int en la clase Person](https://i.imgur.com/emWjRBU.png)
 
 
 
