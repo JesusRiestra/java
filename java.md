@@ -378,6 +378,11 @@ void temperaturaMaximaMensual(int array[]) {
 
 [Operaciones en el CodePad](https://i.imgur.com/Q54gkKE.png)
 
+### Investigando la precedencia entre operaciones
+
+~~~
+8 + 2 * 2; 8 + 4; 12 
+~~~
 
 
 
