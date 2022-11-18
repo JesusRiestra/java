@@ -392,6 +392,12 @@ void temperaturaMaximaMensual(int array[]) {
 1
 ~~~
 
+- La **precedencia de operaciones** determina el orden en el cual los operadores son evaluados uno respecto al otro.
+
+- En Java, la precedencia de operadores es:
+1). Multiplicación y división.
+2).
+
 
 
 
