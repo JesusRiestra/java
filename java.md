@@ -382,13 +382,13 @@ void temperaturaMaximaMensual(int array[]) {
 
 ~~~
 8 + 2 * 2; 
-8 + 4; 
+8 + 4;          La multiplicación tiene precedencia en la operación
 12 
 ~~~
 
 ~~~
 4 - 6 / 2;
-4 - 3;
+4 - 3;          La división tiene precedencia en la operación
 1
 ~~~
 
