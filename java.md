@@ -372,6 +372,11 @@ void temperaturaMaximaMensual(int array[]) {
 
 [Literales en el Codepad](https://i.imgur.com/MfS1h0e.png)
 
+### Experimentando con operaciones en el Codepad
+
+- El **operador módulo** da como resultado el resto de la división entera.
+
+[Operaciones en el CodePad](https://i.imgur.com/Q54gkKE.png)
 
 
 
