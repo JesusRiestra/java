@@ -386,6 +386,11 @@ void temperaturaMaximaMensual(int array[]) {
 12 
 ~~~
 
+~~~
+4 - 6 / 2;
+4 - 3;
+1
+~~~
 
 
 
