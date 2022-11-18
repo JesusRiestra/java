@@ -381,7 +381,9 @@ void temperaturaMaximaMensual(int array[]) {
 ### Investigando la precedencia entre operaciones
 
 ~~~
-8 + 2 * 2; 8 + 4; 12 
+8 + 2 * 2; 
+8 + 4; 
+12 
 ~~~
 
 
