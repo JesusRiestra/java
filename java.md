@@ -402,6 +402,10 @@ void temperaturaMaximaMensual(int array[]) {
 
 3). Operadores lógicos (AND > XOR > OR > AND booleano)
 
+### Fijando cómo se escribe el operador "igual que"
+
+- El error más común que cometen aquellos que comienzan a programar en Java es confundir el **operador de asignación =** con el **operador relacional ==**.
+
 
 
 
