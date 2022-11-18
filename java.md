@@ -406,6 +406,8 @@ void temperaturaMaximaMensual(int array[]) {
 
 - El error más común que cometen aquellos que comienzan a programar en Java es confundir el **operador de asignación =** con el **operador relacional ==**.
 
+- Otro error muy común es utilizar el **operador relacional ==** para comparar objetos de tipo _String_.
+
 
 
 
