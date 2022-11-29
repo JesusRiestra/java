@@ -408,7 +408,9 @@ void temperaturaMaximaMensual(int array[]) {
 
 - Otro error muy común es utilizar el **operador relacional ==** para comparar objetos de tipo _String_.
 
+### Escribiendo código: constructor de Person en digital
 
+[Constructor de Person](https://gist.github.com/JesusRiestra/8b023868635e98166e4f897099126389)
 
 
 
