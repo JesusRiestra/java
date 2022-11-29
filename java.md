@@ -410,6 +410,8 @@ void temperaturaMaximaMensual(int array[]) {
 
 ### Escribiendo código: constructor de Person en digital
 
+[Crear nuevos gist](https://gist.github.com/)
+
 [Constructor de Person](https://gist.github.com/JesusRiestra/8b023868635e98166e4f897099126389)
 
 
