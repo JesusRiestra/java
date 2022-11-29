@@ -411,7 +411,7 @@ void temperaturaMaximaMensual(int array[]) {
 ### Escribiendo código: constructor de Person en digital
 
 - Un **gist** es una forma que se tiene para poder compartir código que no sea demasiado grande usando GitHub. Funciona igual que un repositorio, pudiendo clonarlo, editarlo y comentarlo.
--
+
 [Crear nuevos gist](https://gist.github.com/)
 
 [Constructor de Person](https://gist.github.com/JesusRiestra/8b023868635e98166e4f897099126389)
