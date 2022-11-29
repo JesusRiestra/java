@@ -416,6 +416,10 @@ void temperaturaMaximaMensual(int array[]) {
 
 [Constructor de Person](https://gist.github.com/JesusRiestra/8b023868635e98166e4f897099126389)
 
+### Escribiendo código: métodos getter y setter de Person en digital
+
+[Método getter y setter de Person](https://gist.github.com/JesusRiestra/ddb341e8f4ca6359d38d0e7da5e915db)
+
 
 
 
