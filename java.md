@@ -424,6 +424,12 @@ void temperaturaMaximaMensual(int array[]) {
 
 [Más trozos de código](https://gist.github.com/JesusRiestra/fd6067f0f4c5c737e77e4ec044eb28f6)
 
+### Entendiendo el concepto de interfaz de una clase
+
+**Interfaz gráfica:**
+
+**Interfaz de clase:**
+
 
 
 
