@@ -428,7 +428,7 @@ void temperaturaMaximaMensual(int array[]) {
 
 **Interfaz gráfica:** software que permite la interacción con la máquina de manera gráfica, con elementos como botones, ventanas o iconos.
 
-**Interfaz de clase:**
+**Interfaz de clase:** conjunto de todos los constructores y métodos públicos que un objeto pone a disposición de otros objetos.
 
 
 
