@@ -432,9 +432,9 @@ void temperaturaMaximaMensual(int array[]) {
 
 ### Entendiendo el uso de this
 
-[Escenario 1](https://i.imgur.com/n5kcGvf.png)
+[Escenario 1](https://i.imgur.com/CShLs0l.png)
 
-[Esceneario 2](https://i.imgur.com/mGuRxhx.png)
+[Esceneario 2](https://i.imgur.com/mcX10Gc.png)
 
 
 
