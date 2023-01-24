@@ -430,6 +430,12 @@ void temperaturaMaximaMensual(int array[]) {
 
 **Interfaz de clase:** conjunto de todos los constructores y métodos públicos que un objeto pone a disposición de otros objetos.
 
+### Entendiendo el uso de this
+
+[Escenario 1](https://i.imgur.com/n5kcGvf.png)
+
+[Esceneario 2](https://i.imgur.com/mGuRxhx.png)
+
 
 
 
