@@ -438,26 +438,32 @@ void temperaturaMaximaMensual(int array[]) {
 
 ### Entendiendo las clases genéricas
 
+Una declaración de un atributo privado llamado librosBiblioteca que sea de tipo ArrayList y que pueda contener objetos de la clase Libro:
 ~~~
 private ArrayList<Libro> librosBiblioteca;
 ~~~
 
+Cómo inicializarías el atributo del punto anterior sin usar el operador diamante:
 ~~~
 librosBiblioteca = new ArrayList<Libro>();
 ~~~
 
+Una declaración de una variable local llamada curso que pueda contener una colección de objetos Alumno:
 ~~~
-ArrayList<Alumno> curso = new ArrayList<>();
+ArrayList<Alumno> curso;
 ~~~
 
+Cómo inicializarías la variable local del punto anterior sin usar el operador diamante:
 ~~~
 ArrayList<Alumno> curso = new ArrayList<Alumno>();
 ~~~
 
+Una declaración de un atributo privado llamado tracks que pueda contener una colección de objetos de la clase MusicTrack:
 ~~~
 private ArrayList<MusicTrack> tracks;
 ~~~
 
+Como inicializarías el atributo del punto anterior usando el operador diamante:
 ~~~
 tracks = new ArrayList<>();
 ~~~
