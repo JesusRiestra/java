@@ -468,7 +468,7 @@ Como inicializarías el atributo del punto anterior usando el operador diamante:
 tracks = new ArrayList<>();
 ~~~
 
-### ArrayList: uso de la clase. Ahora se informa si un indice es válido
+### ArrayList: uso de la clase - Ahora se informa si un indice es válido
 
 
 
