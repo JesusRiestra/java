@@ -470,6 +470,8 @@ tracks = new ArrayList<>();
 
 ### ArrayList: uso de la clase - Ahora se informa si un indice es válido
 
+- El proyecto tiene 1 commit (Proyecto finalizado).
+
 
 
 
