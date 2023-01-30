@@ -436,6 +436,33 @@ void temperaturaMaximaMensual(int array[]) {
 
 [Esceneario 2](https://i.imgur.com/mcX10Gc.png)
 
+### Entendiendo las clases genéricas
+
+~~~
+private ArrayList<Libro> librosBiblioteca;
+~~~
+
+~~~
+librosBiblioteca = new ArrayList<Libro>();
+~~~
+
+~~~
+ArrayList<Alumno> curso = new ArrayList<>();
+~~~
+
+~~~
+ArrayList<Alumno> curso = new ArrayList<Alumno>();
+~~~
+
+~~~
+private ArrayList<MusicTrack> tracks;
+~~~
+
+~~~
+tracks = new ArrayList<>();
+~~~
+
+
 
 
 
