@@ -472,6 +472,13 @@ tracks = new ArrayList<>();
 
 - El proyecto tiene 1 commit (Proyecto finalizado).
 
+### Uso de clases de test ya creadas en BlueJ - Commit inicial
+
+[Fallo al pasar los tests del método esMultiploDe2](https://i.imgur.com/ly1riDK.png)
+
+[Fallo al pasar los tests del método esMultiploDe5](https://i.imgur.com/xB4lWxC.png)
+
+[Fallo al pasar los tests del método esMultiploDe](https://i.imgur.com/qaXsV1j.png)
 
 
 
