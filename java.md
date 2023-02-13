@@ -480,6 +480,8 @@ tracks = new ArrayList<>();
 
 [Fallo al pasar los tests del método esMultiploDe](https://i.imgur.com/qaXsV1j.png)
 
+### Bucle for-each: procesamiento completo y selectivo de colecciones - Investigando los métodos de los ArrayList
 
+[Captura 1](https://i.imgur.com/1MMR5kw.png)
 
 
