@@ -484,4 +484,6 @@ tracks = new ArrayList<>();
 
 [Captura 1](https://i.imgur.com/1MMR5kw.png)
 
+### Características importantes de los objetos String - Investigando el método trim
 
+public String trim() --> Devuelve un String cuyo valor es el propio String, con todos los espacios eliminados.
