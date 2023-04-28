@@ -487,3 +487,5 @@ tracks = new ArrayList<>();
 ### Características importantes de los objetos String - Investigando el método trim
 
 **public String trim()** --> Devuelve un String cuyo valor es el propio String, con todos los espacios eliminados.
+
+Valor entre M y N ambos incluidos --> **int valorAleatorioEntreMyN = Math.floor(Math.random() * (N - M + 1) + M);**
