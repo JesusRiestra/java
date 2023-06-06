@@ -489,3 +489,5 @@ tracks = new ArrayList<>();
 **public String trim()** --> Devuelve un String cuyo valor es el propio String, con todos los espacios eliminados.
 
 Valor entre M y N ambos incluidos --> **int valorAleatorioEntreMyN = Math.floor(Math.random() * (N - M + 1) + M);**
+
+**Método principal / Método main** --> **public static void main(String[] args)**
