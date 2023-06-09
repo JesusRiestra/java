@@ -497,7 +497,9 @@ Valor entre M y N ambos incluidos --> **int valorAleatorioEntreMyN = Math.floor(
 ### Matrices o arrays
 
 Persona[] publicoAsistenteAEvento;
+
 boolean[] carreterasNacionalesCongestionadas;
+
 int[] contadorDePersonas;
 ~~~
 []int contadores; 
