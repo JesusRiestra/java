@@ -490,4 +490,16 @@ tracks = new ArrayList<>();
 
 Valor entre M y N ambos incluidos --> **int valorAleatorioEntreMyN = Math.floor(Math.random() * (N - M + 1) + M);**
 
+### Método principal
+
 **Método principal / Método main** --> **public static void main(String[] args)**
+
+### Matrices o arrays
+
+Persona[] publicoAsistenteAEvento;
+boolean[] carreterasNacionalesCongestionadas;
+int[] contadorDePersonas;
+~~~
+[]int contadores; 
+boolean[5000] ocupados;
+~~~
