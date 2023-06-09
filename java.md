@@ -515,3 +515,33 @@ boolean[5000] ocupados;
 int[] contadores; 
 boolean[] ocupados;
 ~~~
+
+### Matrices o arrays. Estudiando las inicializaciones de matrices.
+
+~~~
+double[] medidas;
+String[] urls; 
+MaquinaExpendedora[] maquinas;
+~~~
+
+~~~
+medidas = new double[60];
+urls = new String[90];
+maquinas = new MaquinaExpendedora[5];
+~~~
+
+¿Cuántos objetos String se crean en la siguiente línea?
+
+~~~
+String[] labels = new String[20];
+~~~
+
+- No se crea ningún objeto, se crea una matriz con una capacidad máxima de 20 objetos String.
+
+¿Cuál es el error en la siguiente creación de una matriz?
+
+~~~
+double[] precios = new double(50);
+~~~
+
+- En lugar de corchetes se están utilizando paréntesis
