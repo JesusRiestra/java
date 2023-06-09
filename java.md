@@ -513,5 +513,5 @@ boolean[5000] ocupados;
 
 ~~~
 int[] contadores; 
-boolean[5000] ocupados;
+boolean[] ocupados;
 ~~~
