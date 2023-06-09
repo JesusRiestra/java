@@ -501,7 +501,11 @@ Persona[] publicoAsistenteAEvento;
 boolean[] carreterasNacionalesCongestionadas;
 
 int[] contadorDePersonas;
+
+**Código con errores:**
 ~~~
 []int contadores; 
 boolean[5000] ocupados;
 ~~~
+
+**Código corregido:**
